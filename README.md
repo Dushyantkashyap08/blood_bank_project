@@ -3,8 +3,8 @@
                                                     total pages: 16
                                                     user side pages: 7
                                                     admin side pages:9
-
-							                                        User Side Pages
+									
+	    					User Side Pages
 Signup Page: here a new user will feed his information as a token of registration before using this website.
 
 Homepage :It is the first page of our website where the user is given the basic information of what this website is all about.
@@ -28,7 +28,7 @@ Search Blood bank: this feature will help the users to find blood bank near them
 in which user have to fill the city name. then after pressing search button ,he will be provided with a list of blood banks 
 that are active and inactive.
 
-						                                          	Admin Side Pages
+						Admin Side Pages
 every record page will have an
 additional feature of pagination.
 
